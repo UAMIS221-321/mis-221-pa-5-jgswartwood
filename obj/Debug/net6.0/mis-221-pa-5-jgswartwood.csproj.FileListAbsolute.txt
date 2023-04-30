@@ -1,0 +1,15 @@
+C:\MIS221\mis-221-pa-5-jgswartwood\obj\Debug\net6.0\mis-221-pa-5-jgswartwood.csproj.AssemblyReference.cache
+C:\MIS221\mis-221-pa-5-jgswartwood\obj\Debug\net6.0\mis-221-pa-5-jgswartwood.GeneratedMSBuildEditorConfig.editorconfig
+C:\MIS221\mis-221-pa-5-jgswartwood\obj\Debug\net6.0\mis-221-pa-5-jgswartwood.AssemblyInfoInputs.cache
+C:\MIS221\mis-221-pa-5-jgswartwood\obj\Debug\net6.0\mis-221-pa-5-jgswartwood.AssemblyInfo.cs
+C:\MIS221\mis-221-pa-5-jgswartwood\obj\Debug\net6.0\mis-221-pa-5-jgswartwood.csproj.CoreCompileInputs.cache
+C:\MIS221\mis-221-pa-5-jgswartwood\bin\Debug\net6.0\mis-221-pa-5-jgswartwood.exe
+C:\MIS221\mis-221-pa-5-jgswartwood\bin\Debug\net6.0\mis-221-pa-5-jgswartwood.deps.json
+C:\MIS221\mis-221-pa-5-jgswartwood\bin\Debug\net6.0\mis-221-pa-5-jgswartwood.runtimeconfig.json
+C:\MIS221\mis-221-pa-5-jgswartwood\bin\Debug\net6.0\mis-221-pa-5-jgswartwood.dll
+C:\MIS221\mis-221-pa-5-jgswartwood\bin\Debug\net6.0\mis-221-pa-5-jgswartwood.pdb
+C:\MIS221\mis-221-pa-5-jgswartwood\obj\Debug\net6.0\mis-221-pa-5-jgswartwood.dll
+C:\MIS221\mis-221-pa-5-jgswartwood\obj\Debug\net6.0\refint\mis-221-pa-5-jgswartwood.dll
+C:\MIS221\mis-221-pa-5-jgswartwood\obj\Debug\net6.0\mis-221-pa-5-jgswartwood.pdb
+C:\MIS221\mis-221-pa-5-jgswartwood\obj\Debug\net6.0\mis-221-pa-5-jgswartwood.genruntimeconfig.cache
+C:\MIS221\mis-221-pa-5-jgswartwood\obj\Debug\net6.0\ref\mis-221-pa-5-jgswartwood.dll
